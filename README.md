@@ -232,6 +232,10 @@ Pricing is on the [Actor page](https://apify.com/johnvc/icims-careers-api?fpr=9n
 
 icims api, icims ats, icims jobs, ats api, job data api, scrape job postings, applicant tracking system api, job posting api, companies that use icims, icims api documentation, icims mcp server, track new icims job postings, career site job data, job listings api
 
+## n8n integration
+
+Available as an n8n community node, **[n8n-nodes-icims-careers-api](https://www.npmjs.com/package/n8n-nodes-icims-careers-api)**. In n8n: Settings, Community Nodes, install `n8n-nodes-icims-careers-api`, then use it in any workflow (it also works as an AI Agent tool).
+
 ## More
 
 - Actor on the Apify Store: https://apify.com/johnvc/icims-careers-api?fpr=9n7kx3
