@@ -255,4 +255,4 @@ Available as an n8n community node, **[n8n-nodes-icims-careers-api](https://www.
 - Apify MCP docs: https://docs.apify.com/platform/integrations/mcp
 - uv: https://docs.astral.sh/uv/
 
-Last Updated: 2026.10.02
+Last Updated: 2026.10.04
